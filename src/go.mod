@@ -1,4 +1,4 @@
-module AviaWeather
+module github.com/jdschmitzprofessional/GolangWeather
 
 go 1.17
 
